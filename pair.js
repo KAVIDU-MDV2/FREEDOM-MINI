@@ -40,7 +40,7 @@ const config = {
 };
 
 const octokit = new Octokit({ auth: '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' });
-const owner = 'KAVIDU INDUWARA';
+const owner = 'CYBER-DINU-X';
 const repo = 'session';
 
 const activeSockets = new Map();
